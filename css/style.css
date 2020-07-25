@@ -48,3 +48,11 @@ html{
 }
 
 .about{
+  text-align: center;
+  padding-bottom: 30px;
+  padding-top:40px;
+  font-family: 'Copse', serif;
+}
+#about{
+  font-family: 'Gabriela', serif;
+}
